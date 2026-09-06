@@ -1,0 +1,25 @@
+WEATHERIQ HACKATHON - QUICK START
+
+1. Extract this ZIP.
+2. Open the folder WEATHERIQ-Hackathon in VS Code.
+3. In VS Code: Terminal > New Terminal.
+4. Run:
+   npm install
+5. Then run:
+   npm run dev
+6. Open:
+   http://localhost:5173
+
+IMPORTANT:
+- Do NOT double-click index.html.
+- Do NOT open the ZIP directly in the browser.
+- You must run npm install once and npm run dev.
+- Keep the terminal open while presenting.
+
+If npm install fails, run:
+   node -v
+   npm -v
+and send the terminal screenshot.
+
+
+V5: location-aware weather fallback and geocoding fallback added for reliable demos.
